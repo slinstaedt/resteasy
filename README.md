@@ -8,7 +8,7 @@ The project page can be found at [https://resteasy.github.io](https://resteasy.g
 
 ## Jakarta RESTful Web Services
 
-RESTEasy is a JBoss project that provides various frameworks to help you build RESTful Web Services and RESTful Java applications. It is a portable implementation of the Jakarta RESTful Web Services specification. The Jakarta RESTful Web Services provides a Java API for RESTful Web Services over the HTTP protocol. Please note that the specification is now under the [Eclipse EE4J Project](https://github.com/eclipse-ee4j). You can read the entire specification at [Jakarta RESTful Web Services](https://github.com/eclipse-ee4j/jaxrs-api).
+RESTEasy is a JBoss project that provides various frameworks to help you build RESTful Web Services and RESTful Java applications. It is a portable implementation of the Jakarta RESTful Web Services specification. The Jakarta RESTful Web Services provides a Java API for RESTful Web Services over the HTTP protocol. Please note that the specification is now under the [Eclipse EE4J Project](https://github.com/eclipse-ee4j). You can read the entire specification at [Jakarta RESTful Web Services](https://github.com/eclipse-ee4j/jaxrs-api)..
 
 ## Getting started with RESTEasy
 
